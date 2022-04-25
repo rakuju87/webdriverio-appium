@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "types": ["node", "@wdio/mocha-framework"],
+    "module": "commonjs"
+  },
+  "exclude": ["node_modules"]
+}
